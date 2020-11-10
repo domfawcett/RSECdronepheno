@@ -2,7 +2,8 @@
 
 Code supporting Fawcett et al. 2020 article in RSEC
 
-The required accompanying datasets can be found here: TBA
+The required accompanying datasets can be found here:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4121920.svg)](https://doi.org/10.5281/zenodo.4121920)
 
 
 **ndviMetricComparisonDifDir.R:** 
