@@ -8,17 +8,17 @@ The required accompanying datasets can be found here:
 
 **ndviMetricComparisonDifDir.R:** 
 
-Compares NDVI values for direct and diffuse acquisition pairs (article fig. 5)
+Compares NDVI values for direct and diffuse acquisition pairs (article fig. 5).
 
 
 **ndviRibbonPlots.R:** 
 
-Extracts and plots NDVI time series per species (article fig. 6)
+Extracts and plots NDVI time series per species (article fig. 6).
 
 
 **ndviPhenoMetricExtraction.R:** 
 
-Extracts and plots phenological metrics based on NDVI time series using fitted function (article fig. 8)
+Extracts and plots phenological metrics based on NDVI time series using fitted function (article fig. 8).
 
 
 
